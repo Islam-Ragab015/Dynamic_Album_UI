@@ -66,7 +66,7 @@ TravelPlace(
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/travelplace-flutter.git
+   https://github.com/Islam-Ragab015/Dynamic_Album_UI.git
    ```
 
 2. Navigate to the project directory:
@@ -94,38 +94,11 @@ TravelPlace(
 
 ---
 
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Create a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Contact
 
 For questions or suggestions, feel free to reach out:
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Author**: Islam Elsehrif
+- **Email**: islaminreallife@gmail.com
+- **GitHub**: [Islam Elsehrif](https://github.com/Islam-Ragab015)
 
