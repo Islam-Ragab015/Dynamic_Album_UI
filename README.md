@@ -13,6 +13,7 @@
 - **Vibrant Image Gallery**: Immerse yourself in stunning visuals of each destination.
 - **Community-driven**: Discover the travel stories of other users, complete with profiles and contributions.
 - **Social Integration**: Show your love for a destination with likes and share your favorites with others.
+- **Smooth Animations**: The app uses a variety of animations for smooth and fluid transitions, enhancing the overall user experience. From image carousels to page transitions and interactive elements, animations are used extensively to create an engaging and visually appealing interface.
 
 ---
 
